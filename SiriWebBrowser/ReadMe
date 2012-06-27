@@ -1,0 +1,13 @@
+Just a simple plugin that opens a website on the proxy host computer
+Was my first plugin
+
+Commands :
+You : Search website
+Siri : Wich website would you like me to browse too?
+You : (e.g) google.com
+Siri : Would you like to open it in a new tab or a new window?
+You : (e.g) New tab
+Siri : Google.com was oppened on your website successfully!
+
+Don't forget to put 'webrowser' in your plugins config file
+

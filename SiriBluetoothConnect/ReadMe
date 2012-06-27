@@ -1,0 +1,8 @@
+A plugin that simply connects to a bluetooth device that is in range of the bluetooth adapter from the proxy server
+
+Commands :
+You : Search bluetooth
+
+Follow the prompts
+
+Don't forget to add 'bluetoof' to the plugins config file
